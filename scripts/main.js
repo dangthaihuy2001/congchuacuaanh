@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['ANH', 'YÊU', 'EM', 'BÉ NHÀN']
+  let texts = ['EM XINH ', 'NHƯ ', 'MỘT THIÊN THẦN', 'TRÂN TRÂN']
 
   let canvas,
     ctx,
